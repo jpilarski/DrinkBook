@@ -49,7 +49,7 @@ Aplikacja powstała na przedmiocie `Aplikacje mobilne`, na VI semestrze studiów
 
 #### [🇵🇱 Wersja polska](#ℹ️-o-projekcie)
 
-The application was created for the `Mobile Applications` course during the 6th semester of the Bachelor's degree in Computer Science at Poznan University of Technology.
+The application was created for the `Mobile applications` course during the 6th semester of the Bachelor's degree in Computer Science at Poznan University of Technology.
 
 ### ✅ Main features of the application
 
