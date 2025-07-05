@@ -43,7 +43,7 @@ Aplikacja powstała na przedmiocie `Aplikacje mobilne`, na VI semestrze studiów
 * [Jakub Pilarski](https://github.com/jpilarski)
 * [Wojciech Gładysz](https://github.com/ThrillMan)
 
-### [📷 Galeria](#📷 gallery)
+### [📷 Galeria](#📷-gallery)
 
 ## ℹ️ About the project
 
