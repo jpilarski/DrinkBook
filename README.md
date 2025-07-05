@@ -92,19 +92,23 @@ The application was created for the `Mobile Applications` course during the 6th 
   <tr>
     <td><img src="images/1.jpg" alt="Img1" style="display: block; width: 200px;"/></td>
     <td><img src="images/2.jpg" alt="Img2" style="display: block; width: 200px;"/></td>
-    <td><img src="images/3.jpg" alt="Img3" style="display: block; width: 200px;"/></td>
-    <td><img src="images/4.jpg" alt="Img4" style="display: block; width: 200px;"/></td>
-  </tr>
-  <tr>
-    <td><img src="images/5.jpg" alt="Img5" style="display: block; width: 200px;"/></td>
-    <td><img src="images/6.jpg" alt="Img6" style="display: block; width: 200px;"/></td>
-    <td><img src="images/7.jpg" alt="Img7" style="display: block; width: 200px;"/></td>
     <td><img src="images/8.jpg" alt="Img8" style="display: block; width: 200px;"/></td>
+    <td><img src="images/9.jpg" alt="Img9" style="display: block; width: 200px;"/></td>
   </tr>
   <tr>
-    <td><img src="images/9.jpg" alt="Img9" style="display: block; width: 200px;"/></td>
-    <td><img src="images/10.jpg" alt="Img10" style="display: block; width: 200px;"/></td>
-    <td><img src="images/11.jpg" alt="Img11" style="display: block; width: 200px;"/></td>
-    <td><img src="images/12.jpg" alt="Img12" style="display: block; width: 200px;"/></td>
+    <td colspan=2><img src="images/3.jpg" alt="Img3" style="display: block; width: 400px;"/></td>
+    <td colspan=2><img src="images/4.jpg" alt="Img4" style="display: block; width: 400px;"/></td>
+  </tr>
+  <tr>
+    <td colspan=2><img src="images/5.jpg" alt="Img5" style="display: block; width: 400px;"/></td>
+    <td colspan=2><img src="images/6.jpg" alt="Img6" style="display: block; width: 400px;"/></td>
+  </tr>
+  <tr>
+    <td colspan=2><img src="images/7.jpg" alt="Img7" style="display: block; width: 400px;"/></td>
+    <td colspan=2><img src="images/10.jpg" alt="Img10" style="display: block; width: 400px;"/></td>
+  </tr>
+  <tr>
+    <td colspan=2><img src="images/11.jpg" alt="Img11" style="display: block; width: 400px;"/></td>
+    <td colspan=2><img src="images/12.jpg" alt="Img12" style="display: block; width: 400px;"/></td>
   </tr>
 </table>
